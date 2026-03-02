@@ -90,5 +90,3 @@ const toggle = dropdown.closest('.dropdown').querySelector('.dropdown-toggle');
 3. **扩展说明**：
 
 如需为其他导航项添加三级菜单，只需复用 `dropdown-submenu` 结构，并确保 CSS 样式生效即可，代码结构具备良好的可扩展性。
-> （注：文档部分内容可能由 AI 生成）
-
